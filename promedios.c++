@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 
 int main() {
@@ -17,4 +18,4 @@ int main() {
     printf("El promedio redondeado es: %.4f\n", promedio);
 
     return 0;
-}
+    } 
